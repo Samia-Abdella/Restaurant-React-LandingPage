@@ -36,6 +36,7 @@ const Navbar = () => {
               <li><a href="#contact" onClick={() => setToggleMenu(false)}>Contact</a></li>
             </ul>
           </div>
+          <div></div>
         )}
       </div>
     </nav>
