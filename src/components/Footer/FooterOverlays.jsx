@@ -1,9 +1,12 @@
 import React from 'react'
 import './FooterOverlays.css'
 
-const FooterOverlays = () => {
+const  FooterOverlays = () => {
   return (
-    <div>FooterOverlays</div>
+    <div className='app__footeroverlay'>
+      <div className='app__footeroverlay-black'/>
+      <div className='app__footeroverlay-img app__bg'/>
+    </div>
   )
 }
 
