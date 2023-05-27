@@ -50,7 +50,7 @@
   color: var(--color-golden);
 }
 
-.app__footer_headtext {
+.app__footer-headtext {
   font-family: var(--font-base);
   color: var(--color-white);
   font-weight: 400;
@@ -66,7 +66,7 @@
 }
 
 @media screen and (min-width: 2000px) {
-    .app__footer_headtext{
+    .app__footer-headtext{
         font-size: 51px;
         line-height: 61px;
     }
